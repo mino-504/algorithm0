@@ -1,3 +1,3 @@
-# algorithm0
+# algorithm24
 
 ## content 최민호
